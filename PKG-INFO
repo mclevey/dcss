@@ -5,7 +5,7 @@ Summary: Utilities for the book Doing Computational Social Science
 Home-page: https://github.com/UWNETLAB/doing_computational_social_science
 Author: John McLevey
 Author-email: john.mclevey@uwaterloo.ca
-License: UNKNOWN
+License: MIT
 Project-URL: Bug Tracker, https://github.com/UWNETLAB/doing_computational_social_science/issues
 Description: Details about the package...
         
